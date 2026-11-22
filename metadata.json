@@ -1,0 +1,6 @@
+{
+  "name": "Vie en 2035 — Alphabette",
+  "description": "RPG textuel réaliste et sans langue de bois où tu vis 5 journées types en 2035 dans la peau du métier de ton choix, avec jauges de vie et bilan vérité sans filtre.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
